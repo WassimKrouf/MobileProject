@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{59F33A40-4D43-433C-A743-63728B9050AB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HDF.Droid PreferredExecutionTarget="Android.Android_ARMv7a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HDF\HDF\obj\Debug\HDF.Views.Shared.MainPage.xaml.g.cs">
+    <Files>
+      <File FileName="HDF\HDF\Views\Shared\MainPage.xaml" Line="17" Column="20" />
+      <File FileName="HDF\HDF\Views\Shared\MasterPage.xaml" Line="16" Column="19" />
+      <File FileName="HDF\HDF\obj\Debug\HDF.Views.Shared.MainPage.xaml.g.cs" Line="24" Column="1" />
+      <File FileName="HDF\HDF\App.cs" Line="15" Column="1" />
+      <File FileName="HDF\HDF\Views\Shared\MainPage.xaml.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
